@@ -3,5 +3,9 @@ bsdfgsdfsgfgsdfg its jhgkjhg
 =======
 bsdfgsdfsgfgsdfg hey dood
 >>>>>>> e666cb2436f5761fcf049b987e9ce5d598cf04ee
+<<<<<<< HEAD
    
 hi bro
+=======
+were are you
+>>>>>>> f07d00f5a9ed03abf08b950803f2187dd57164e0
